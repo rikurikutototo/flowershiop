@@ -386,7 +386,7 @@ address {
 .hero {
   width: 100%;
   height: 620px;
-  background-image: url(../../img/header.png);
+  background-image: url(./header.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -657,7 +657,7 @@ address {
 }
 
 .contact {
-  background-image: url(../../img/contact.png);
+  background-image: url(./img/contact.png);
   background-size: cover;
   background-repeat: no-repeat;
   margin-top: 120px;
